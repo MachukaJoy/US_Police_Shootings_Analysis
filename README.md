@@ -86,7 +86,7 @@ Ian Tirok - [Ian](https://twitter.com/Kittony_) - ian.tirok@gmail.com
 
 Jackson Kyalo - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Joy Macuka - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Joy Machuka - [@your_twitter](https://twitter.com/your_username) - machukajoy@gmail.com
 
 Asha Deen - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
