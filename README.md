@@ -28,9 +28,12 @@ Here are the major tools that we used for the data analysis
 
 * [Google Colab](https://colab.research.google.com/)
 * [Tableu Public](https://public.tableau.com/en-us/s/)
+* [Python](https://www.python.org/)
+* [Git](https://github.com/)
 * [Special thanks to google](https://google.com)
 * [Special thanks to grepper tool](https://www.codegrepper.com/)
 * [Special thanks to Moringa School](https://moringaschool.com/)
+
 
 
 <!-- USAGE EXAMPLES -->
@@ -49,12 +52,15 @@ Some of the data that would have been nice to have are
 2. Information about all the arrests that have occured
 3. Inforamtion about police shoootings post the BLACK LIVES MATTER MOVEMENT
 4. All data regarding police brutality and arrests are welcome
-5. Similar datasets for police brutality or killings in Kenya or Africa at large
+
+### On a side note
+
+Similar datasets for police brutality or killings in Kenya or Africa at large
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-We would love to continue to improving this analysis. Please contribute :smiley: :smiley:
+We would love to continue improving this analysis. Please contribute :smiley: :smiley:
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
