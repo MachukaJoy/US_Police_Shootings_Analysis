@@ -84,7 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ian Tirok - [Ian](https://twitter.com/Kittony_) - ian.tirok@gmail.com
 
-Jackson Kyalo - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Jackson Kyalo - [@your_twitter](https://twitter.com/jackkyalo978) - jackkyalo978@example.com
 
 Joy Machuka - [Joy](https://https://twitter.com/ms_machuka) - machukajoy@gmail.com
 
